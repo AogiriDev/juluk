@@ -1,0 +1,12 @@
+body {
+  background-color: #f4f7f6;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+#nicknameResult {
+  font-size: 1.5rem;
+  color: #007bff;
+}
